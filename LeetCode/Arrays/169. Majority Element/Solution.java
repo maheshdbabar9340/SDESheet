@@ -1,3 +1,4 @@
+// O(n) time complextiy
 class Solution {
     public int majorityElement(int[] nums) {
         if(nums.length ==1) {
