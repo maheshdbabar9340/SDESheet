@@ -13,6 +13,8 @@
 //     }
 // }
 
+    
+
 class Solution {
     public int thirdMax(int[] nums) {
         Integer max = null;
