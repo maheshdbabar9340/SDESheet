@@ -6,6 +6,7 @@ class Solution {
         int res=0;
         int maxleft=0, maxright=0;
         
+        
         while(left<=right){
             
             if(height[left]<=height[right]){
